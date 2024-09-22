@@ -10,7 +10,7 @@
         - command -> npx tsc -init
         - set in the tsconfig.js
             - OutDir -> ./dist/ folder
-    - 5.  
+    - 5.Writing Backened -server folder
 
 ## Backened-> Three Step process
 
